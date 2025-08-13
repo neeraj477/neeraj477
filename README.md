@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Neeraj Mahajan</h1>
-<h4 align="center">A passionate software developer exploring Artificial Intelligence , Machine Learning and Full-Stack Development, with a drive to build impactful solutions.</h4>
+<h4 align="center">A passionate software developer exploring Artificial Intelligence, Machine Learning, and Full-Stack Development, with a drive to build impactful solutions.</h4>
 
 <img align="right" alt="coding" src="https://user-images.githubusercontent.com/74038190/216644497-1951db19-8f3d-4e44-ac08-8e9d7e0d94a7.gif" height="180">
 
@@ -50,15 +50,6 @@
 </p>
 
 ---
-
-<div align="center">
-  <img height="130" src="https://github-readme-stats.vercel.app/api/top-langs?username=neerajmahajan&show_icons=true&locale=en&layout=compact&theme=dark" alt="neerajmahajan" />
-  <img height="130" src="https://github-readme-stats.vercel.app/api?username=neerajmahajan&show_icons=true&locale=en&theme=dark" alt="neerajmahajan" />
-</div>
-
-<div align="center">
-  <img height="150" src="https://github-readme-streak-stats.herokuapp.com/?user=neerajmahajan&theme=dark&layout=compact" alt="neerajmahajan" />
-</div>
 
 <div align="right">
   <img alt="coding" src="https://user-images.githubusercontent.com/74038190/212747107-5b654ba5-31c6-4366-b42b-51b822e9bc52.gif">
